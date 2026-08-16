@@ -138,3 +138,11 @@ GPL-3.0 - See [LICENSE](LICENSE)
 ---
 
 *Educational security research tool. Use responsibly.* 🔐
+
+## Who this is for
+
+AutoFuzzer is for authorized software testing and vulnerability research teams exploring coverage-guided mutation, crash discovery, and fuzzing workflow automation. Use it only against programs and environments you are allowed to test.
+
+## Why star this repository
+
+Star this project if fuzzing, coverage-guided testing, mutation strategies, or defensive vulnerability research is part of your toolkit.
